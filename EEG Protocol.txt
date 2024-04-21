@@ -1,0 +1,40 @@
+EEG Study Protocol
+Pre-Experiment Preparation:
+Participant Recruitment: Select participants meeting the criteria for the study.
+Informed Consent: Explain the study to participants and obtain informed consent.
+Participant Screening: Screen participants for any contraindications to EEG (e.g., metal implants, epilepsy).
+Preparation of Equipment: Ensure all EEG equipment is set up and calibrated properly.
+Experimental Session:
+Participant Preparation:
+Have the participant sit comfortably in a quiet room with minimal distractions.
+Apply conductive gel to the electrodes to improve electrical contact with the scalp.
+Attach EEG electrodes to the participant's scalp according to the international 10-20 system.
+Baseline Recording:
+Record a baseline EEG signal for a few minutes with the participant in a relaxed state, eyes open and eyes closed.
+Experimental Tasks:
+Present stimuli or tasks based on the research question (e.g., visual stimuli, auditory stimuli, cognitive tasks).
+Ensure participants understand the task instructions and perform them accurately.
+Data Collection:
+Record EEG signals continuously during the experimental tasks.
+Ensure participants remain still to minimize artifacts.
+Monitor the EEG signals in real-time to detect any issues.
+Post-Experiment Procedures:
+Thank the participant for their participation.
+Clean the EEG electrodes and remove any conductive gel from the participant's scalp.
+Provide any compensation or debriefing as necessary.
+Post-Experiment Data Processing:
+Data Preprocessing:
+Filter the EEG signals to remove noise (e.g., high-pass filter, notch filter).
+Remove artifacts using techniques such as Independent Component Analysis (ICA) or artifact rejection algorithms.
+Feature Extraction:
+Extract relevant features from the EEG signals based on the research question (e.g., event-related potentials, spectral power).
+Data Analysis:
+Analyze the extracted features using appropriate statistical methods or machine learning algorithms.
+Compare conditions or groups to draw conclusions based on the study's objectives.
+Interpretation and Reporting:
+Interpret the results in the context of the research question.
+Prepare a report or manuscript summarizing the findings for publication or further discussion.
+Ethical Considerations:
+Ensure the study adheres to ethical guidelines for research involving human participants.
+Protect participant confidentiality and privacy throughout the study.
+This protocol provides a general framework for conducting an EEG study, but specific details may vary depending on the research objectives and experimental design. It's essential to adapt the protocol to fit the specific needs of the study while maintaining scientific rigor and ethical standards.
