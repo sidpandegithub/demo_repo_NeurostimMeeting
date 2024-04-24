@@ -9,7 +9,7 @@ classdef experimentSession
 	%               modification, distribution or copying is prohibited.
 	% 
     properties
-        length {mustBeNumeric,mustBeScalarOrEmpty,mustBeNonempty} = 150; % length of this session in seconds
+        length {mustBeNumeric,mustBeScalarOrEmpty,mustBeNonempty} = 180; % length of this session in seconds
         scanType = string % eg "Baseline", "Active" or "Sham"
    end
    methods
